@@ -1,0 +1,9 @@
+# IBM Developer's Workframe/2 Make File Creation run at 19:08:31 on 08/23/91
+
+
+
+BOOT.OBJ:  BOOT.C           \
+#  {$(INCLUDE);}os2.h          \
+#  {$(INCLUDE);}stdlib.h       \
+#  {$(INCLUDE);}stdio.h        \
+   BOOT.MAK
